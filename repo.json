@@ -1,0 +1,8 @@
+{
+  "name": "CloudStream-RU",
+  "description": "Русскоязычный репозиторий плагинов",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/bkloxy/cs-ru/builds/plugins.json"
+  ]
+}
